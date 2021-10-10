@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cross Fade</string>
+    <string name="first_track_btn">Choose the first track</string>
+    <string name="second_track_btn">Choose the second track</string>
+    <string name="play_btn">PLAY</string>
+    <string name="cross_fade_int"></string>
+    <string name="song_title">Song Title</string>
+    <string name="song_author">Song Author</string>
+</resources>
